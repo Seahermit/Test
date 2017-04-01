@@ -7,3 +7,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
 ### Added
 - CHANGELOG.md as a running change log!
+- Added this line to the Change Log
