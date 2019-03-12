@@ -1,0 +1,44 @@
+[
+	{
+		"title": "Get the help you need, when you want it",
+		"url": "https://help.evergreen-life.co.uk",
+		"images": [
+			{
+				"width": 831,
+				"path": "macbook-help.png"
+			},
+			{
+				"width": 400,
+				"path": "macbook-help-narrow.png"
+			}
+		]
+	},
+	{
+		"title": "A second image, with no link",
+		"url": "",
+		"images": [
+			{
+				"width": 831,
+				"path": "second-image.png"
+			},
+			{
+				"width": 400,
+				"path": "second-image-narrow.png"
+			}
+		]
+	},
+	{
+		"title": "A third image, being something different",
+		"url": "https://help.evergreen-life.co.uk",
+		"images": [
+			{
+				"width": 831,
+				"path": "third-image.png"
+			},
+			{
+				"width": 400,
+				"path": "third-image-narrow.png"
+			}
+		]
+	}
+]
