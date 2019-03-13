@@ -1,7 +1,6 @@
 [
 	{
 		"title": "Get the help you need, when you want it",
-		"url": "https://help.evergreen-life.co.uk",
 		"images": [
 			{
 				"width": 831,
@@ -15,7 +14,6 @@
 	},
 	{
 		"title": "A second image, with no link",
-		"url": "",
 		"images": [
 			{
 				"width": 831,
@@ -29,7 +27,6 @@
 	},
 	{
 		"title": "A third image, being something different",
-		"url": "https://help.evergreen-life.co.uk",
 		"images": [
 			{
 				"width": 831,
