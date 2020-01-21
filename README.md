@@ -7,6 +7,8 @@ Doing another edit, as it's on a recovered branch!
 
 ...adding an edit to see what is needed to do Pull Request on someone elses Repo...
 
+That seems to work here. https://github.com/bonn0062/github_welcome_wall seems to think I should be able to there too, but I get a permission denied error!
+
 [![Issues](https://img.shields.io/github/issues/Seahermit/Test.svg?label=Issues)](https://github.com/Seahermit/Test/issues)
 
 [![Huboard](https://img.shields.io/badge/Hu-Board-7965cc.svg)](https://huboard.com/Seahermit/Test)
